@@ -1953,11 +1953,11 @@ textarea {
 
 #vc-spotify-player {
     padding: 12px;
+    background: var(--background-base-low);
     margin: 0;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom: 1px solid var(--border-subtle);
-    background: var(--transparent);
     --vc-spotify-green: var(--spotify, #1db954);
     --vc-spotify-green-90:  color-mix(in hsl, var(--vc-spotify-green), transparent 90%);
     --vc-spotify-green-80:  color-mix(in hsl, var(--vc-spotify-green), transparent 80%);
